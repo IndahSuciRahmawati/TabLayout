@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">TabLayout</string>
+    <string name="data_description"></string>
+
+
+    <string-array name="data_description">
+        <item>
+Disini kami berdiri membangun jati diri\n
+Mencari arti menggali hakiki\n
+Bersikap tegak teguh mandiri\n\n
+
+Disini kami bertekad semangat bermartabat\n
+Gelora cinta Ibu Pertiwi\n
+Bernadi ilmu teknologi dan seni\n\n
+
+UNIKU Universitas Kuningan\n
+Ada dan terjaga\n
+UNIKU Universitas Kuningan\n
+Selalu yang terdepan\n\n
+
+Menggagas cerdas melangkah tegas\n
+Kibar panjimu di cakrawala luas\n
+Mengawal cita berkarya cipta gemakan suaramu selamanya\n\n
+
+
+Disini kami berdiri membangun jati diri\n
+Mencari arti menggali hakiki\n
+Bersikap tegak teguh mandiri\n\n
+
+Disini kami bertekad semangat bermartabat\n
+Gelora cinta Ibu Pertiwi\n
+Bernadi ilmu teknologi dan seni\n\n
+
+UNIKU Universitas Kuningan\n
+Ada dan terjaga\n
+UNIKU Universitas Kuningan\n
+Selalu yang terdepan\n\n
+
+Menggagas cerdas melangkah tegas\n
+Kibar panjimu di cakrawala luas\n
+Mengawal cita berkarya cipta gemakan suaramu selamanya\n\n
+
+Menggagas cerdas melangkah tegas\n
+Kibar panjimu di cakrawala luas\n
+Mengawal cita berkarya cipta gemakan suaramu selamanya\n\n
+
+UNIKU berjuang\n
+UNIKU menjulang\n
+UNIKU gemilang\n
+UNIKU JAYA</item>
+    </string-array>
+    <!-- Data mengenai fakultas-fakultas di Universitas Kuningan -->
+    <string-array name="data_fakultas">
+        <item>
+            Universitas Kuningan merupakan kampus yang terdiri dari 5 fakultas dan 1 sekolah pascasarjana, diantaranya:\n\n
+            1.Fakultas Keguruan dan Ilmu Pendidikan\n
+            2. Fakultas Ekonomi dan Bisnis\n
+            3.Fakultas Kehutanan dan Ilmu Lingkungan\n
+            4. Fakultas Ilmu Komputer\n
+            5. Fakultas Hukum\n
+            6. Sekolah Pascasarjana\n
+        </item>
+    </string-array>
+
+
+    <string-array name="data_prodi">
+        <item>
+            Universitas Kuningan merupakan kampus yang terdiri dari 5 fakultas dan berikut adalah program studi yang ada di universitas kuningan, diantaranya:\n\n
+            1.Fakultas Keguruan dan Ilmu Pendidikan,terdiri dari 6 program studi:\n
+            - Program Studi Bahasa dan Sastra Indonesia\n
+            - Program Studi Pendidikan Biologi\n
+            - Program Studi Pendidikan Ekonomi\n
+            - Program Studi Pendidikan Bahasa Inggris\n
+            - Program Studi Pendidikan Guru Sekolah Dasar\n
+            - Program Studi Pendidikan Matematika\n\n
+
+            2. Fakultas Ekonomi dan Bisnis,terdiri dari 3 program studi:\n
+            - Program Studi Manajemen\n
+            - Program Studi Akuntansi\n
+            - Program Studi Bisnis Digital\n\n
+
+            3.Fakultas Kehutanan dan Ilmu Lingkungan,terdiri dari 2 program studi:\n
+            - Program Studi Kehutanan\n
+            - Program Studi Ilmu Lingkungan\n\n
+
+            4. Fakultas Ilmu Komputer,terdiri dari 5 program studi:\n
+            - Program Studi Sistem Informasi S1\n
+            - Program Studi Teknik Informatika S1\n
+            - Program Studi Desain Komunikasi Visual S1\n
+            - Program Studi Manajemen Informatika D3\n
+            - Program studi teknik Sipil\n\n
+            5. Fakultas Hukum\n\n
+            6. Sekolah Pascasarjana,terdiri dari 3 program studi:\n
+            - Magister Manajemen S2\n
+            - Pendidikan Biologi S2\n
+            - Pendidikan Ekonomi S2
+        </item>
+    </string-array>
+
+</resources>
+
